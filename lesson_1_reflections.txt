@@ -1,0 +1,35 @@
+How did viewing a diff between two versions of a file help you see the bug that
+was introduced?
+
+    Viewing the diff between two versions of a file helped me to find the exact lines that were different, so I could see the bug easily.
+
+How could having easy access to the entire history of a file make you a more
+efficient programmer in the long term?
+
+    Having the entire history of a file make me a more efficient programmer because I can see my progress in some project. I can see the mistakes that I've committed and learn with them.
+
+What do you think are the pros and cons of manually choosing when to create a
+commit, like you do in Git, vs having versions automatically saved, like Google
+docs does?
+
+    Pros: I have total control of my commits and what changes they contain.
+    Cons: I could forget to save some change or take to long to save and lose something.
+
+Why do you think some version control systems, like Git, allow saving multiple
+files in one commit, while others, like Google Docs, treat each file separately?
+
+    The Git Version control system allow saving multiple files in one commit because the files in the programation of some system can be related, while files in Google Docs are independent.
+
+How can you use the commands git log and git diff to view the history of files?
+
+    With git log I can see all the commits that were made with their respective id, author, date and description of commit.
+    The command git diff with two ids of commit show me the insertions and deletions that were made in the files of the commits.
+
+How might using version control make you more confident to make changes that
+could break something?
+
+    If I would change something tha could break my code, I just needed to user version control and commit that, so if something went wrong I coult revert the changes.
+
+Now that you have your workspace set up, what do you want to try using Git for?
+
+    I want to try using git for all my projects now, so I'll have a repository of all my code with all the changes organized. With git I'll not be more afraid of losing some code or messing up with it, because with git I can undo any changes that I do.
